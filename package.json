@@ -1,0 +1,25 @@
+{
+  "name": "otg-service",
+  "version": "1.0.0",
+  "description": "OTG service for roca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunEng/otg-service.git"
+  },
+  "keywords": [],
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArunEng/otg-service/issues"
+  },
+  "homepage": "https://github.com/ArunEng/otg-service#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "mssql": "^8.0.2"
+  }
+}
